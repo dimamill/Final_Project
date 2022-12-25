@@ -143,7 +143,8 @@ postgres       | password | test
 
 Conn Id  | Conn Type | host | Port 
 ------------- | ------------- | ------------ | ----------------
-database_PG       | postgres | host.docker.internal | 5425
+database_PG | postgres | host.docker.internal | 5425
+
 В папке docs расположены описание проекта, презентация и CSV файлы (как пример выгрузки данных)
 
 В папке programs расположены скрипты, данные со всеми настройками для правильной работы скрипта
