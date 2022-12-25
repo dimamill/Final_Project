@@ -101,6 +101,11 @@ extract_data
 
 ![image](https://user-images.githubusercontent.com/114313955/209475876-8183ada0-6ead-4c9f-8155-f24532cac2d1.png)
 
+Установка и запуск:
+
+Запуск проекта:
+
+docker-compose up -d
 
 В папке docs расположены описание проекта, презентация и CSV файлы (как пример выгрузки данных)
 
