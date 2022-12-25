@@ -105,7 +105,7 @@ extract_data
 
 Запуск проекта:
 
-docker-compose up -d
+(docker-compose up -d)
 
 В папке docs расположены описание проекта, презентация и CSV файлы (как пример выгрузки данных)
 
