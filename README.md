@@ -87,6 +87,11 @@ extract_data
 Формирование витрины данных
 Получение данных из БД возможно с помощью запросов
 
+Схема проекта:
+
+![image](https://user-images.githubusercontent.com/114313955/209476717-11e08bf4-0db5-4be6-9960-f43436f60ad0.png)
+
+
 Структура DAGa:
 
 ![image](https://user-images.githubusercontent.com/114313955/209475876-8183ada0-6ead-4c9f-8155-f24532cac2d1.png)
