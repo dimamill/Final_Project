@@ -87,6 +87,11 @@ extract_data
 Формирование витрины данных
 Получение данных из БД возможно с помощью запросов
 
+Слой данных: 
+
+![image](https://user-images.githubusercontent.com/114313955/209476769-651f7557-2c99-4d1a-953e-8fa5a4d1287d.png)
+
+
 Схема проекта:
 
 ![image](https://user-images.githubusercontent.com/114313955/209476717-11e08bf4-0db5-4be6-9960-f43436f60ad0.png)
