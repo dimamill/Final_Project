@@ -114,6 +114,12 @@ vector2 = 'ЦБ|СбЕРбАНК|курс'`
 
 ![image](https://user-images.githubusercontent.com/114313955/209475876-8183ada0-6ead-4c9f-8155-f24532cac2d1.png)
 
+**Пример таблицы в PostgreSQL:**
+----------------------
+
+![image](https://user-images.githubusercontent.com/114313955/209477950-13250845-7e75-4a1e-9ae4-3926bc8bdfc0.png)
+
+
 **Установка и запуск:**
 ===========================
 
